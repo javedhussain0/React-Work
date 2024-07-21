@@ -1,0 +1,30 @@
+h1{
+  font-size: 50px;
+  text-shadow: 10px 10px 10px #a5735b;
+}
+
+#delete-btn{
+
+  background-color: rgb(246, 65, 65);
+  color: whitesmoke;
+  border: 2px solid darkred;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.para{
+  margin: 100px;
+  font-size: 20px;
+  text-shadow: 10px 10px 10px #a5735b
+
+}
+
+.history-li{
+ font-size: 20px;
+ font-family: var(intialize);
+ font-style: oblique;
+ margin-left: 10px;
+}
